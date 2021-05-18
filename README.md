@@ -1,4 +1,4 @@
-# Arturia Minilab MK2 LED control
+# Arturia MiniLab MK2 LED control
 
 This Python code shows how to control the LEDs of the pads and buttons on the MK2.
 
